@@ -1,0 +1,20 @@
+PODS:
+  - HexColors (3.0.0)
+  - Masonry (0.6.3)
+
+DEPENDENCIES:
+  - HexColors (~> 3.0)
+  - Masonry (~> 0.6.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HexColors
+    - Masonry
+
+SPEC CHECKSUMS:
+  HexColors: 8b83e3fe90c0d466dae7b98c9d22da95799f99cb
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+
+PODFILE CHECKSUM: ba993a1eb31f2d8d78d30ad14d61b95fbaa97d7f
+
+COCOAPODS: 1.5.3
